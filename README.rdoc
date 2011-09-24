@@ -1,0 +1,7 @@
+= Hyperpublic Sample Iphone App
+
+Sample application developed on the Hyperpublic API
+
+== More info
+
+This project uses SBJson and ASIHTTPRequest to talk to the Hyperpublic API.
