@@ -1,0 +1,256 @@
+THyperpublicSampleApp
+v7
+r0
+t338572306.698960
+cCheck dependencies
+cProcessInfoPlistFile /Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app/Info.plist HyperpublicSampleApp-Info.plist
+cCompileXIB /Users/erictang/Desktop/HyperpublicSampleApp/MainWindow.xib
+cCompileXIB /Users/erictang/Desktop/HyperpublicSampleApp/HyperpublicSampleAppViewController.xib
+cProcessPCH /var/folders/AN/ANlqWqj4EAGqkaStEwm8U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HyperpublicSampleApp_Prefix-ekhocuwuhhngrqckeukifubpvihz/HyperpublicSampleApp_Prefix.pch.gch HyperpublicSampleApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/Objects-normal/i386/main.o /Users/erictang/Desktop/HyperpublicSampleApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/Objects-normal/i386/HyperpublicSampleAppAppDelegate.o /Users/erictang/Desktop/HyperpublicSampleApp/Classes/HyperpublicSampleAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/Objects-normal/i386/HyperpublicSampleAppViewController.o /Users/erictang/Desktop/HyperpublicSampleApp/Classes/HyperpublicSampleAppViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app/HyperpublicSampleApp normal i386
+cGenerateDSYMFile /Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app.dSYM /Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app/HyperpublicSampleApp
+cTouch /Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/erictang/Desktop/HyperpublicSampleApp/Classes/HyperpublicSampleAppAppDelegate.h
+c000000004E7DFC6F0000000000000226
+t1316879471
+s550
+i<UIKit/UIKit.h>
+
+N/Users/erictang/Desktop/HyperpublicSampleApp/Classes/HyperpublicSampleAppAppDelegate.m
+c000000004E7DFC6F0000000000000AE4
+t1316879471
+s2788
+i"HyperpublicSampleAppAppDelegate.h"
+i"HyperpublicSampleAppViewController.h"
+
+N/Users/erictang/Desktop/HyperpublicSampleApp/Classes/HyperpublicSampleAppViewController.h
+c000000004E7DFC6F000000000000010E
+t1316879471
+s270
+i<UIKit/UIKit.h>
+
+N/Users/erictang/Desktop/HyperpublicSampleApp/Classes/HyperpublicSampleAppViewController.m
+c000000004E7DFC6F00000000000005EE
+t1316879471
+s1518
+i"HyperpublicSampleAppViewController.h"
+
+N/Users/erictang/Desktop/HyperpublicSampleApp/HyperpublicSampleAppViewController.xib
+c000000004E7DFC6F0000000000001A79
+t1316879471
+s6777
+
+N/Users/erictang/Desktop/HyperpublicSampleApp/HyperpublicSampleApp_Prefix.pch
+c000000004E7DFC6F00000000000000D1
+t1316879471
+s209
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/erictang/Desktop/HyperpublicSampleApp/MainWindow.xib
+c000000004E7DFC6F0000000000004EC5
+t1316879471
+s20165
+
+N/Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app
+t1316879506
+s238
+
+N/Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app.dSYM
+t1316879506
+s102
+
+N/Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app/HyperpublicSampleApp
+t1316879506
+s17780
+
+N/Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app/HyperpublicSampleAppViewController.nib
+t1316879489
+s1269
+
+N/Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app/Info.plist
+t1316879479
+s649
+
+N/Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app/MainWindow.nib
+t1316879489
+s1707
+
+N/Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app/PkgInfo
+t1316879479
+s8
+
+N/Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/Objects-normal/i386/HyperpublicSampleApp.LinkFileList
+c000000004E7DFC760000000000000207
+t1316879478
+s519
+
+N/Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/Objects-normal/i386/HyperpublicSampleAppAppDelegate.o
+t1316879506
+s52068
+
+N/Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/Objects-normal/i386/HyperpublicSampleAppViewController.o
+t1316879506
+s38232
+
+N/Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/Objects-normal/i386/main.o
+t1316879505
+s6324
+
+N/Users/erictang/Desktop/HyperpublicSampleApp/main.m
+c000000004E7DFC70000000000000016F
+t1316879472
+s367
+i<UIKit/UIKit.h>
+
+N/var/folders/AN/ANlqWqj4EAGqkaStEwm8U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HyperpublicSampleApp_Prefix-ekhocuwuhhngrqckeukifubpvihz/HyperpublicSampleApp_Prefix.pch.gch
+t1316879505
+s15814064
+
+NHyperpublicSampleApp-Info.plist
+c000000004E7DFC6F000000000000038D
+t1316879471
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies338572278#338572279#0(0"0(0#1#0"8624502112#0"0#
+
+CCompileC build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/Objects-normal/i386/HyperpublicSampleAppAppDelegate.o /Users/erictang/Desktop/HyperpublicSampleApp/Classes/HyperpublicSampleAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338572305.670169
+e338572306.037875
+r1
+xCompileC
+xbuild/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/Objects-normal/i386/HyperpublicSampleAppAppDelegate.o
+x/Users/erictang/Desktop/HyperpublicSampleApp/Classes/HyperpublicSampleAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/erictang/Desktop/HyperpublicSampleApp/Classes/HyperpublicSampleAppAppDelegate.m338572305#338572306#0(0"0(0#0#86"/Users/erictang/Desktop/HyperpublicSampleApp/Classes/HyperpublicSampleAppAppDelegate.m8623925600#2599"    cd /Users/erictang/Desktop/HyperpublicSampleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/usr/local/share/npm/bin:/LIBRARY/Ruby/Gems/1.8/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/mongodb/bin:/usr/X11/bin:/usr/local/Cellar/postgresql/9.0.4/bin/:/Users/erictang/.gem/ruby/1.8/bin:/opt/local/bin/"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/HyperpublicSampleApp-generated-files.hmap -I/Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/HyperpublicSampleApp-own-target-headers.hmap -I/Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/HyperpublicSampleApp-all-target-headers.hmap -iquote /Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/HyperpublicSampleApp-project-headers.hmap -F/Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator -I/Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/include -I/Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/DerivedSources/i386 -I/Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/DerivedSources -include /var/folders/AN/ANlqWqj4EAGqkaStEwm8U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HyperpublicSampleApp_Prefix-ekhocuwuhhngrqckeukifubpvihz/HyperpublicSampleApp_Prefix.pch -c /Users/erictang/Desktop/HyperpublicSampleApp/Classes/HyperpublicSampleAppAppDelegate.m -o /Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/Objects-normal/i386/HyperpublicSampleAppAppDelegate.o0#
+
+CCompileC build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/Objects-normal/i386/HyperpublicSampleAppViewController.o /Users/erictang/Desktop/HyperpublicSampleApp/Classes/HyperpublicSampleAppViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338572305.672077
+e338572306.020544
+r1
+xCompileC
+xbuild/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/Objects-normal/i386/HyperpublicSampleAppViewController.o
+x/Users/erictang/Desktop/HyperpublicSampleApp/Classes/HyperpublicSampleAppViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/erictang/Desktop/HyperpublicSampleApp/Classes/HyperpublicSampleAppViewController.m338572305#338572306#0(0"0(0#0#89"/Users/erictang/Desktop/HyperpublicSampleApp/Classes/HyperpublicSampleAppViewController.m8623419712#2605"    cd /Users/erictang/Desktop/HyperpublicSampleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/usr/local/share/npm/bin:/LIBRARY/Ruby/Gems/1.8/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/mongodb/bin:/usr/X11/bin:/usr/local/Cellar/postgresql/9.0.4/bin/:/Users/erictang/.gem/ruby/1.8/bin:/opt/local/bin/"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/HyperpublicSampleApp-generated-files.hmap -I/Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/HyperpublicSampleApp-own-target-headers.hmap -I/Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/HyperpublicSampleApp-all-target-headers.hmap -iquote /Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/HyperpublicSampleApp-project-headers.hmap -F/Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator -I/Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/include -I/Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/DerivedSources/i386 -I/Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/DerivedSources -include /var/folders/AN/ANlqWqj4EAGqkaStEwm8U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HyperpublicSampleApp_Prefix-ekhocuwuhhngrqckeukifubpvihz/HyperpublicSampleApp_Prefix.pch -c /Users/erictang/Desktop/HyperpublicSampleApp/Classes/HyperpublicSampleAppViewController.m -o /Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/Objects-normal/i386/HyperpublicSampleAppViewController.o0#
+
+CCompileC build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/Objects-normal/i386/main.o /Users/erictang/Desktop/HyperpublicSampleApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338572305.668464
+e338572305.999765
+r1
+xCompileC
+xbuild/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/Objects-normal/i386/main.o
+x/Users/erictang/Desktop/HyperpublicSampleApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/erictang/Desktop/HyperpublicSampleApp/main.m338572305#338572306#0(0"0(0#0#51"/Users/erictang/Desktop/HyperpublicSampleApp/main.m8624501792#2537"    cd /Users/erictang/Desktop/HyperpublicSampleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/usr/local/share/npm/bin:/LIBRARY/Ruby/Gems/1.8/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/mongodb/bin:/usr/X11/bin:/usr/local/Cellar/postgresql/9.0.4/bin/:/Users/erictang/.gem/ruby/1.8/bin:/opt/local/bin/"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/HyperpublicSampleApp-generated-files.hmap -I/Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/HyperpublicSampleApp-own-target-headers.hmap -I/Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/HyperpublicSampleApp-all-target-headers.hmap -iquote /Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/HyperpublicSampleApp-project-headers.hmap -F/Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator -I/Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/include -I/Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/DerivedSources/i386 -I/Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/DerivedSources -include /var/folders/AN/ANlqWqj4EAGqkaStEwm8U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HyperpublicSampleApp_Prefix-ekhocuwuhhngrqckeukifubpvihz/HyperpublicSampleApp_Prefix.pch -c /Users/erictang/Desktop/HyperpublicSampleApp/main.m -o /Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/erictang/Desktop/HyperpublicSampleApp/HyperpublicSampleAppViewController.xib
+s338572279.520162
+e338572289.513297
+r1
+xCompileXIB
+x/Users/erictang/Desktop/HyperpublicSampleApp/HyperpublicSampleAppViewController.xib
+lSLF07#2@49"CompileXIB HyperpublicSampleAppViewController.xib338572279#338572289#0(0"0(0#0#83"/Users/erictang/Desktop/HyperpublicSampleApp/HyperpublicSampleAppViewController.xib8625288448#946"    cd /Users/erictang/Desktop/HyperpublicSampleApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/usr/local/share/npm/bin:/LIBRARY/Ruby/Gems/1.8/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/mongodb/bin:/usr/X11/bin:/usr/local/Cellar/postgresql/9.0.4/bin/:/Users/erictang/.gem/ruby/1.8/bin:/opt/local/bin/"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app/HyperpublicSampleAppViewController.nib /Users/erictang/Desktop/HyperpublicSampleApp/HyperpublicSampleAppViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/erictang/Desktop/HyperpublicSampleApp/MainWindow.xib
+s338572279.518295
+e338572289.513094
+r1
+xCompileXIB
+x/Users/erictang/Desktop/HyperpublicSampleApp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib338572279#338572289#0(0"0(0#0#59"/Users/erictang/Desktop/HyperpublicSampleApp/MainWindow.xib8625785888#898"    cd /Users/erictang/Desktop/HyperpublicSampleApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/usr/local/share/npm/bin:/LIBRARY/Ruby/Gems/1.8/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/mongodb/bin:/usr/X11/bin:/usr/local/Cellar/postgresql/9.0.4/bin/:/Users/erictang/.gem/ruby/1.8/bin:/opt/local/bin/"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app/MainWindow.nib /Users/erictang/Desktop/HyperpublicSampleApp/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app.dSYM /Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app/HyperpublicSampleApp
+s338572306.550852
+e338572306.688712
+r1
+xGenerateDSYMFile
+x/Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app.dSYM
+x/Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app/HyperpublicSampleApp
+lSLF07#2@148"GenerateDSYMFile build/Debug-iphonesimulator/HyperpublicSampleApp.app.dSYM build/Debug-iphonesimulator/HyperpublicSampleApp.app/HyperpublicSampleApp338572306#338572306#0(0"0(0#0#118"/Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app/HyperpublicSampleApp8623794752#737"    cd /Users/erictang/Desktop/HyperpublicSampleApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/usr/local/share/npm/bin:/LIBRARY/Ruby/Gems/1.8/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/mongodb/bin:/usr/X11/bin:/usr/local/Cellar/postgresql/9.0.4/bin/:/Users/erictang/.gem/ruby/1.8/bin:/opt/local/bin/"    /Developer/usr/bin/dsymutil /Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app/HyperpublicSampleApp -o /Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app.dSYM0#
+
+CLd /Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app/HyperpublicSampleApp normal i386
+s338572306.038008
+e338572306.550706
+r1
+xLd
+x/Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app/HyperpublicSampleApp
+xnormal
+xi386
+lSLF07#2@123"Link /Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app/HyperpublicSampleApp338572306#338572306#0(0"0(0#0#0"8625122080#1292"    cd /Users/erictang/Desktop/HyperpublicSampleApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/usr/local/share/npm/bin:/LIBRARY/Ruby/Gems/1.8/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/mongodb/bin:/usr/X11/bin:/usr/local/Cellar/postgresql/9.0.4/bin/:/Users/erictang/.gem/ruby/1.8/bin:/opt/local/bin/"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator -F/Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator -filelist /Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/Objects-normal/i386/HyperpublicSampleApp.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app/HyperpublicSampleApp0#
+
+CProcessInfoPlistFile /Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app/Info.plist HyperpublicSampleApp-Info.plist
+s338572279.326151
+e338572279.518153
+r1
+xProcessInfoPlistFile
+x/Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app/Info.plist
+xHyperpublicSampleApp-Info.plist
+lSLF07#2@39"Process HyperpublicSampleApp-Info.plist338572279#338572279#0(0"0(0#0#76"/Users/erictang/Desktop/HyperpublicSampleApp/HyperpublicSampleApp-Info.plist8623358784#833"    cd /Users/erictang/Desktop/HyperpublicSampleApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/usr/local/share/npm/bin:/LIBRARY/Ruby/Gems/1.8/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/mongodb/bin:/usr/X11/bin:/usr/local/Cellar/postgresql/9.0.4/bin/:/Users/erictang/.gem/ruby/1.8/bin:/opt/local/bin/"    builtin-infoPlistUtility HyperpublicSampleApp-Info.plist -genpkginfo /Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app/Info.plist0#
+
+CProcessPCH /var/folders/AN/ANlqWqj4EAGqkaStEwm8U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HyperpublicSampleApp_Prefix-ekhocuwuhhngrqckeukifubpvihz/HyperpublicSampleApp_Prefix.pch.gch HyperpublicSampleApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s338572289.513407
+e338572305.668233
+r1
+xProcessPCH
+x/var/folders/AN/ANlqWqj4EAGqkaStEwm8U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HyperpublicSampleApp_Prefix-ekhocuwuhhngrqckeukifubpvihz/HyperpublicSampleApp_Prefix.pch.gch
+xHyperpublicSampleApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile HyperpublicSampleApp_Prefix.pch338572289#338572305#0(0"0(0#0#76"/Users/erictang/Desktop/HyperpublicSampleApp/HyperpublicSampleApp_Prefix.pch8621135424#2410"    cd /Users/erictang/Desktop/HyperpublicSampleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/usr/local/share/npm/bin:/LIBRARY/Ruby/Gems/1.8/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/mongodb/bin:/usr/X11/bin:/usr/local/Cellar/postgresql/9.0.4/bin/:/Users/erictang/.gem/ruby/1.8/bin:/opt/local/bin/"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/HyperpublicSampleApp-generated-files.hmap -I/Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/HyperpublicSampleApp-own-target-headers.hmap -I/Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/HyperpublicSampleApp-all-target-headers.hmap -iquote /Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/HyperpublicSampleApp-project-headers.hmap -F/Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator -I/Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/include -I/Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/DerivedSources/i386 -I/Users/erictang/Desktop/HyperpublicSampleApp/build/HyperpublicSampleApp.build/Debug-iphonesimulator/HyperpublicSampleApp.build/DerivedSources -c /Users/erictang/Desktop/HyperpublicSampleApp/HyperpublicSampleApp_Prefix.pch -o /var/folders/AN/ANlqWqj4EAGqkaStEwm8U++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HyperpublicSampleApp_Prefix-ekhocuwuhhngrqckeukifubpvihz/HyperpublicSampleApp_Prefix.pch.gch0#
+
+CTouch /Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app
+s338572306.688846
+e338572306.698889
+r1
+xTouch
+x/Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app
+lSLF07#2@103"Touch /Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app338572306#338572306#0(0"0(0#0#0"8623314624#600"    cd /Users/erictang/Desktop/HyperpublicSampleApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/local/bin:/opt/local/sbin:/usr/local/share/npm/bin:/LIBRARY/Ruby/Gems/1.8/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/local/mongodb/bin:/usr/X11/bin:/usr/local/Cellar/postgresql/9.0.4/bin/:/Users/erictang/.gem/ruby/1.8/bin:/opt/local/bin/"    /usr/bin/touch -c /Users/erictang/Desktop/HyperpublicSampleApp/build/Debug-iphonesimulator/HyperpublicSampleApp.app0#
+
